@@ -20,8 +20,8 @@ The dataset includes the following columns:
 * **Customer_Age**: Age of the customer.
 * **Customer_Location**: Location of the customer.
 ## Analysis
-1.The analysis includes the following key points:
-**Sales Trends Over Time:** Visualizing the overall sales trends over different time periods to identify peak sales periods and seasonal variations.
+The analysis includes the following key points:
+1.**Sales Trends Over Time:** Visualizing the overall sales trends over different time periods to identify peak sales periods and seasonal variations.
 
 2.**Popular Pizza Types:** Determining the most popular pizza types among customers.
 
