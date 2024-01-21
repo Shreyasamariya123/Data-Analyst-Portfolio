@@ -4,13 +4,11 @@
 
 
 ## Overview
-This project aims to analyze pizza sales data to derive meaningful insights and trends. The dataset used in this analysis contains information about pizza sales, including sales figures, customer demographics, popular pizza types, and seasonal variations.
+This project involves the analysis of pizza sales data using Power BI and SQL. The goal is to gain insights into sales trends, customer preferences, and overall business performance.
 
 ## Tech Stack
-* **Python**: Utilized for data cleaning, processing, and analysis.
-* **Pandas**: Used for data manipulation and analysis.
-* **Matplotlib and Seaborn**: Employed for data visualization.
-* **Jupyter Notebooks**: Used for interactive development and documentation.
+* **Power BI**: Used for data visualization and business intelligence.
+* **SQL**: Utilized for querying and managing the underlying relational database.
 ## Data
 The dataset includes the following columns:
 * **Order_ID**: Unique identifier for each pizza order.
@@ -40,9 +38,24 @@ To deploy this project run.
 ```bash
  git clone https://github.com/Shreyasamariya123/Data-Analyst-Portfolio.git
 ```
-2.Navigate to the project directory.
-3.Open the Jupyter Notebook file in a Jupyter environment.
+2.Set up the SQL database by running the provided SQL scripts in the database folder.
+3.Connect Power BI to the SQL database to load and visualize the data.
 
-4.Run the notebook cell by cell to execute the analysis steps.
-## Results
-Include visualizations, key findings, and insights obtained from the analysis.
+4.Open the Power BI project file (pizza_sales.pbix) to explore the dashboards.
+## Features
+
+- Interactive dashboards displaying key performance indicators (KPIs).
+- Drill-down functionality for detailed analysis.
+- Integration with SQL database for real-time data updates.
+
+
+
+## Dashboard
+### Sales Overview
+- Monthly sales trends
+- Revenue distribution by pizza type
+- Top-selling products
+### Customer Insights
+- Customer demographics
+- Order frequency and size
+- Delivery vs. pickup analysis
